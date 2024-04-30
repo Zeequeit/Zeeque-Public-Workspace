@@ -1,2 +1,2 @@
-Zeeque Public Workspace Repository
+Zeeque Public Workspace Repository.
 https://github.com/Zeequeit/Zeeque-Public-Workspace
